@@ -1,0 +1,9 @@
+
+fraudTrain.csv
+fraudTest.csv
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
